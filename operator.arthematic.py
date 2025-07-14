@@ -1,0 +1,9 @@
+x = 5
+y = 3
+print(x+y) # 5+3=8
+print(x-y) # 5-3=2
+print(x*y) # 5*3=15
+print(x/y) # 5/3=1.66
+print(x**y)# 5^3=125
+print(x % y) #5%3=2
+print(x//y) #5/3=1.66
